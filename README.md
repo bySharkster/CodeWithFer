@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Fernando Aponte
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Senior+Front+End+Developer;React+%7C+Next.js+%7C+Vue.js+Expert;5%2B+Years+of+Experience;Passionate+about+UI%2FUX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Senior+Front+End+Developer;React+%7C+Next.js+%7C+Solid.js+Expert;5%2B+Years+of+Experience;Passionate+about+UI%2FUX" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -12,6 +12,7 @@ As a seasoned Senior Front End Developer with over five years of experience, I e
 
 - **Languages:** HTML5, CSS3, JavaScript, TypeScript, Python, C++, PHP
 - **Recently Used Frameworks:** React, Next.js, Solid.js
+- **Recently Used Tools: Supabase, Prisma, tRPC, ZOD, Figma, Eraser.io, ShadCN.
 - **Version Control:** Git
 - **Focus:** Responsive Design, Web Performance Optimization, User Experience, User Interfaces.
 
